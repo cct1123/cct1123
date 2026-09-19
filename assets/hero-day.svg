@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Chun Tung Cheung</title>
+  <desc id="desc">I build systems that interface with the physical world.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBF9F6"/>
+      <stop offset="1" stop-color="#F3EEE8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#E07A5F" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#E07A5F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#D6C3B3" opacity=".42"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="460" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="460" fill="url(#paper)"/>
+    <rect width="1200" height="460" fill="url(#dots)" opacity=".55"/>
+    <circle cx="1008" cy="218" r="180" fill="url(#glow)" filter="url(#soft)"/>
+    <path d="M770 60C910 34 1098 60 1174 172C1238 266 1144 399 990 418C848 436 741 336 756 230C765 164 828 118 916 108" fill="none" stroke="#8D9B87" stroke-width="1.5" opacity=".42"/>
+    <path d="M814 90C947 42 1114 100 1154 215C1188 313 1088 397 974 385C852 372 788 286 816 204C840 134 926 105 1005 123" fill="none" stroke="#E07A5F" stroke-width="2" opacity=".72"/>
+    <path d="M854 321L992 78L1130 321Z" fill="#FFFFFF" fill-opacity=".40" stroke="#3D405B" stroke-width="1.2"/>
+    <path d="M854 321L992 238L1130 321M992 78V238" fill="none" stroke="#3D405B" stroke-width="1.2" opacity=".7"/>
+    <circle cx="992" cy="238" r="8" fill="#E07A5F"/>
+    <circle cx="854" cy="321" r="5" fill="#8D9B87"/>
+    <circle cx="1130" cy="321" r="5" fill="#8D9B87"/>
+    <circle cx="992" cy="78" r="5" fill="#8D9B87"/>
+    <path d="M664 390H1135" stroke="#D6C3B3" stroke-width="1"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="458" rx="27" fill="none" stroke="#EAE2D8" stroke-width="2"/>
+  <g transform="translate(72 68)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#E07A5F" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">RESEARCH · ENGINEERING · DESIGN</text>
+    <text x="0" y="78" dominant-baseline="hanging" fill="#3D405B" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2">Chun Tung Cheung</text>
+    <text x="2" y="186" dominant-baseline="hanging" fill="#6D6A6A" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing=".3">I build systems that interface with the physical world.</text>
+    <line x1="2" y1="265" x2="70" y2="265" stroke="#E07A5F" stroke-width="4"/>
+    <text x="88" y="257" dominant-baseline="hanging" fill="#3D405B" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PHYSICS → INSTRUMENTS → KNOWLEDGE</text>
+  </g>
+</svg>

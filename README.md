@@ -8,7 +8,7 @@
 
 <a name="current-system"></a>
 
-## I build complex scientific systems.
+## I build scientific research systems.
 
 I am a systems builder working where **physics, hardware, software, and automation become one system**. My work spans quantum technologies, optical engineering, RF and microwave engineering, data acquisition, signal processing, instrument control, and laboratory automation.
 
@@ -53,10 +53,6 @@ These are a few of my public projects. More private projects will be released as
 ---
 
 <p align="center">
-  <strong>RESEARCH · ENGINEERING · DESIGN</strong>
-  <br><br>
-  Building tools and instruments for exploring the physical world.
-  <br><br>
   <a href="https://ctcheung.studio">Website</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/cct1123?tab=repositories">Repositories</a>

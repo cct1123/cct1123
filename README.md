@@ -17,11 +17,6 @@ I am a systems builder working where **physics, hardware, software, and automati
 I am currently completing a PhD in Physics at the University of Chicago, where I am developing an integrated quantum sensing platform for high-resolution microscale NMR spectroscopy at 14-Tesla (nearly half a million times Earth’s magnetic field strength).
 
 
-## Selected Github Repo
-These are a few of my public projects. More private projects will be released as I approach graduation in 2027!
-<br>
-
-
 <a name="engineering-domains"></a>
 
 ## Engineering domains

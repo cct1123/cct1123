@@ -21,26 +21,6 @@ I am currently completing a PhD in Physics at the University of Chicago, where I
 These are a few of my public projects. More private projects will be released as I approach graduation in 2027!
 <br>
 
-<a name="selected-work"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-day.svg">
-  <img alt="Selected work: Tracy, GDSViewer, Agentic Research Template, and Agentic Engineering Template" src="./assets/projects-day.svg" width="100%">
-</picture>
-
-<p align="center">
-  <a href="https://github.com/cct1123/Tracy"><strong>Tracy ↗</strong></a>
-  <a href="https://github.com/cct1123/gdsviewer"><strong>GDSViewer ↗</strong></a>
-  <a href="https://github.com/cct1123/agentic-research-template"><strong>Research Template ↗</strong></a>
-  <a href="https://github.com/cct1123/agentic-engineering-template"><strong>Engineering Template ↗</strong></a>
-</p>
-
-<p align="right">
-  <a href="https://github.com/cct1123?tab=repositories">Explore all repositories →</a>
-</p>
-
-<br>
 
 <a name="engineering-domains"></a>
 
